@@ -1,1 +1,2 @@
-first command ios
+fist line ios
+add second line 2
